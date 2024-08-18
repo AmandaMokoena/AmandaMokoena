@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AmandaMokoena</h1>
+<h1 align="center">Hi 👋, I'm Amanda Mokoena</h1>
 <h3 align="center">I am a dedicated data scientist who first delved into the field in 2024 during my academic pursuits at Exploit AI Academy. My focus lies in harnessing the power of data science and machine learning to address real-world challenges and craft meaningful solutions. I take pleasure in exploring novel methodologies and integrating them into projects with potential impact. Collaboration and knowledge exchange within the data science community are endeavors I actively pursue. I invite you to explore my projects and reach out for further engagement.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandamokoena&label=Profile%20views&color=0e75b6&style=flat" alt="amandamokoena" /> </p>
