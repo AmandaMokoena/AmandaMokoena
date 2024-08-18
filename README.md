@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Forage BCG X](https://www.theforage.com/simulations?careers=data)
 
-- complete [Classification app](https://app-classification-vdk9fsb5wabznmkayeexby.streamlit.app/)
+- Complete [Classification app](https://app-classification-vdk9fsb5wabznmkayeexby.streamlit.app/)
 
-- complete [Recommended system app](https://nkhubalale-recommendation-system-app-iz0vxz.streamlit.app/)
+- Complete [Recommended system app](https://nkhubalale-recommendation-system-app-iz0vxz.streamlit.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
