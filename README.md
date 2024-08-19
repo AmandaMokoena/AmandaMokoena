@@ -1,5 +1,12 @@
+
 <h1 align="center">Hi 👋, I'm Amanda Mokoena</h1>
 <h3 align="center">I am a dedicated data scientist who first delved into the field in 2024 during my academic pursuits at Exploit AI Academy. My focus lies in harnessing the power of data science and machine learning to address real-world challenges and craft meaningful solutions. I take pleasure in exploring novel methodologies and integrating them into projects with potential impact. Collaboration and knowledge exchange within the data science community are endeavors I actively pursue. I invite you to explore my projects and reach out for further engagement.</h3>
+
+<div align="center" style="font-size: 40%; text-align: center; margin: 0 auto;">
+    <img src="https://github.com/user-attachments/assets/16935c9f-ff08-4708-b088-ec7f515fb792" 
+         style="display: block; margin-left: auto; margin-right: auto; width: 800px; height: 300px;" 
+         alt="Image description" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandamokoena&label=Profile%20views&color=0e75b6&style=flat" alt="amandamokoena" /> </p>
 
@@ -7,9 +14,9 @@
 
 - 🌱 I’m currently studying at **Explore AI Academy**
 
-- Accomplishment [Classification app](https://app-classification-vdk9fsb5wabznmkayeexby.streamlit.app/)
+- Achievement [Classification app](https://app-classification-vdk9fsb5wabznmkayeexby.streamlit.app/)
 
-- Accomplishment [Recommended system app](https://nkhubalale-recommendation-system-app-iz0vxz.streamlit.app/)
+- Achievement [Recommended system app](https://nkhubalale-recommendation-system-app-iz0vxz.streamlit.app/)
 
 - 📫 How to reach me **zalmokeona@gmail.com**
 
@@ -23,6 +30,7 @@
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandamokoena&show_icons=true&locale=en" alt="amandamokoena" /></p>
+
 
 
 
