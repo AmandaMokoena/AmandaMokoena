@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Amanda Mokoena</h1>
 <h3 align="center">I am a dedicated data scientist who first delved into the field in 2024 during my academic pursuits at Exploit AI Academy. My focus lies in harnessing the power of data science and machine learning to address real-world challenges and craft meaningful solutions. I take pleasure in exploring novel methodologies and integrating them into projects with potential impact. Collaboration and knowledge exchange within the data science community are endeavors I actively pursue. I invite you to explore my projects and reach out for further engagement.</h3>
 
@@ -6,13 +5,17 @@
 
 - 🔭 I’m currently working on [Forage BCG X](https://www.theforage.com/simulations?careers=data)
 
-- Complete [Classification app](https://app-classification-vdk9fsb5wabznmkayeexby.streamlit.app/)
+- 🌱 I’m currently studying at **Explore AI Academy**
 
-- Complete [Recommended system app](https://nkhubalale-recommendation-system-app-iz0vxz.streamlit.app/)
+- Accomplishment [Classification app](https://app-classification-vdk9fsb5wabznmkayeexby.streamlit.app/)
+
+- Accomplishment [Recommended system app](https://nkhubalale-recommendation-system-app-iz0vxz.streamlit.app/)
+
+- 📫 How to reach me **zalmokeona@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amanda-mokoena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanda-mokoena" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amanda-mokoena-969a27271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amanda-mokoena-969a27271/" height="30" width="40" /></a>
 <a href="https://kaggle.com/amandamokoena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amandamokoena" height="30" width="40" /></a>
 </p>
 
